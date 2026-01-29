@@ -2,13 +2,13 @@
 #EXT-X-VERSION:3
 
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="المنار" tvg-logo="https://i.ibb.co/ALManar.png" group-title="📺 العربية",المنار TV | WacelLivePro
-http://masrawy.nvpro.tv/live/manar/manar2023/35770
+http://masrawy.nvpro.tv:80/live/manar/manar2023/35767.m3u8
 
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="المنار" tvg-logo="https://i.ibb.co/ALManar.png" group-title="📺 العربية",المنار HD | WacelLivePro
-http://masrawy.nvpro.tv/live/manar/manar2023/35769
+http://masrawy.nvpro.tv:80/live/manar/manar2023/35767.m3u8
 
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="المنار" tvg-logo="https://i.ibb.co/ALManar.png" group-title="📺 العربية",المنار SD | WacellivePro
-http://masrawy.nvpro.tv/live/manar/manar2023/35768
+http://masrawy.nvpro.tv:80/live/manar/manar2023/35767.m3u8
 
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="المنار" tvg-logo="https://i.ibb.co/ALManar.png" group-title="📺 العربية",المنار Low | WacelLivePro
-http://masrawy.nvpro.tv/live/manar/manar2023/35767
+http://masrawy.nvpro.tv:80/live/manar/manar2023/35767.m3u8
